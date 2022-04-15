@@ -71,7 +71,7 @@
     "karma-sinon": "^1.0.3",
     "lodash": "^2.4.1",
     "sinon": "1.16.1",
-    "systemjs-builder": "^0.15.7",
+    "systemjs-builder": "^0.16.15",
     "tslint": "^3.2.1",
     "typescript": "^1.7.5"
   }
