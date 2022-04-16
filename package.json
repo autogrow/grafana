@@ -70,7 +70,7 @@
     "grunt-sync": "^0.4.1",
     "karma-sinon": "^1.0.3",
     "lodash": "^2.4.1",
-    "sinon": "1.16.1",
+    "sinon": "1.17.7",
     "systemjs-builder": "^0.15.7",
     "tslint": "^3.2.1",
     "typescript": "^1.7.5"
