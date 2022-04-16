@@ -67,7 +67,7 @@
   "dependencies": {
     "es5-shim": "^4.4.1",
     "grunt-jscs": "~1.5.x",
-    "grunt-sync": "^0.4.1",
+    "grunt-sync": "^0.8.2",
     "karma-sinon": "^1.0.3",
     "lodash": "^2.4.1",
     "sinon": "1.16.1",
